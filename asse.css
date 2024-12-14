@@ -1,0 +1,137 @@
+{
+text_align:justify;
+}
+h1
+{
+text-align:center;
+color:white;
+border-style:solid;
+border-width : 3px;
+border-color:black;
+background-color :green;
+margin-bottom :80px;
+font-size :50px ;
+}
+body{background-image :url("https://pbs.twimg.com/media/EOFKCaWXUAA1RYU.jpg:large");
+background-attachment : fixed;
+}
+
+nav
+{
+border-style:solid;
+border-width : 4px;
+border-color:black;
+padding:10px;
+width:20%;
+float : left;
+background-color: white;
+}
+img
+{
+text-align:justify;
+width:20%;
+border-style:solid;
+text-align:center;
+float : right;
+}
+h3
+{
+text-decoration :underline;
+margin-left : 35%;
+background-color :white;
+margin-right : 30%;
+color:black;
+}
+#textelogo
+{
+border-style:solid;
+border-width : 2px;
+border-color:black;
+margin-left : 25%;
+margin-right : 25%;
+background-color: white;
+margin-top :50px;
+}
+#palmares
+{
+border-style solid;
+text-align:justify;
+width:20%;
+border-style:solid;
+text-align:center;
+float : left;
+margin-top:150px;
+}
+#champion
+{
+border-style:solid;
+border-width : 2px;
+border-color:white;
+margin-left : 25%;
+margin-right : 25%;
+background-color: black;
+margin-top :50px;
+color:white;
+}
+#titretrophee
+{
+text-decoration :underline;
+margin-left : 34%;
+margin-top :15%;
+background-color :black;
+color:white;
+}
+#supporter
+{
+text-align:justify;
+width:37%;
+text-align:center;
+clear:both;
+margin-right:70px;
+margin-top :-210px;
+margin-bottom :60px;
+}
+#fan
+{
+border-style:solid;
+width:40%;
+border-width : 2px;
+border-color:black;
+margin-left : 2%;
+margin-right : 1000px;
+background-color: white;
+margin-top :250px;
+color:green;
+float : left;
+}
+nav
+{
+border-style:solid;
+border-width : 4px;
+border-color:green;
+background-color: white;
+padding:10px;
+width:20%;
+float : left
+}
+#joueur
+{
+text-align:justify;
+width:55%;
+text-align:center;
+clear:both;
+margin-right:200px;
+margin-top :-91px;
+margin-bottom :60px;
+}
+#Calandrier
+{
+text-align:justify;
+width:25%;
+text-align:center;
+clear:both;
+margin-right:280px;
+margin-top :-91px;
+margin-bottom :60px;
+}
+
